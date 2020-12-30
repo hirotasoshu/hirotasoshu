@@ -1,4 +1,4 @@
-![Banner](https://raw.githubusercontent.com/hirotasoshu/hirotasoshu/main/assets/banner.png)
+![Banner](assets/banner.png)
 
 [<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/vk.svg" />][vk]
 [<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/telegram.svg" />][tg]
