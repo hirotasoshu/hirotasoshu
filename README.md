@@ -5,7 +5,7 @@
 [![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/J3J02ZZLK)
 
 
-<img hight="350" width="300" alt="GIF" align="right" src="https://raw.githubusercontent.com/hirotasoshu/hirotasoshu/main/assets/flcl.gif">
+<img hight="350" width="300" alt="GIF" align="right" src="assets/flcl.gif">
 
 ``` python
 hirotasoshu = {
