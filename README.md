@@ -1,16 +1,22 @@
-### Hi there 👋
+![Banner] (https://raw.githubusercontent.com/hirotasoshu/hirotasoshu/main/assets/banner.png)
+</br>
 
-<!--
-**hirotasoshu/hirotasoshu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![vk](https://ddo0fzhfvians.cloudfront.net/uploads/icons/png/16718415751579688354-32.png)](https://vk.com/r4se7su)
+[![tg](https://ddo0fzhfvians.cloudfront.net/uploads/icons/png/17094235061579688352-32.png)](https://t.me/r4se7su)
+[![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/J3J02ZZLK)
+</br>
 
-Here are some ideas to get you started:
+<img hight="350" width="300" alt="GIF" align="right" src="https://raw.githubusercontent.com/hirotasoshu/hirotasoshu/main/assets/flcl.gif">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+``` python
+hirotasoshu = {
+    'real_name': 'maxim zayakin',
+    'pronouns': ('he', 'him'),
+    'country': 'russia',
+    'city': 'yekaterinburg',
+    'code': ['python', 'scala', 'racket'],
+    'tools': ['fastapi', 'django', 'docker'],
+    'editor': 'spacemacs',
+    'OS': 'arch linux '
+}
+```
