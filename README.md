@@ -1,7 +1,8 @@
-![Banner](assets/banner.png)
+![Banner](assets/new_banner.png)
 
-[<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/vk.svg" />][vk]
-[<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/telegram.svg" />][tg]
+[<img height="32" width="32" src="assets/vk.png" />][vk]
+[<img height="32" width="32" src="assets/telegram.png" />][tg]
+[<img height="32" width="32" src="assets/inst.png" />][inst]
 [![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/J3J02ZZLK)
 
 
@@ -22,3 +23,4 @@ hirotasoshu = {
 
 [vk]: https://vk.com/r4se7su
 [tg]: https://t.me/r4se7su
+[inst]: https://www.instagram.com/hirotasoshu/
