@@ -17,6 +17,7 @@ hirotasoshu = {
     'code': ['python', 'scala', 'racket'],
     'tools': ['fastapi', 'django', 'docker'],
     'editor': 'spacemacs',
+    'hobbies': ['music', 'anime', 'books']
     'OS': 'arch linux'
 }
 ```
