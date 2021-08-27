@@ -3,7 +3,6 @@
 [<img height="32" width="32" src="assets/vk.png" />][vk]
 [<img height="32" width="32" src="assets/telegram.png" />][tg]
 [<img height="32" width="32" src="assets/inst.png" />][inst]
-[![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/J3J02ZZLK)
 
 
 <img hight="350" width="300" alt="GIF" align="right" src="assets/flcl.gif">
@@ -14,11 +13,14 @@ hirotasoshu = {
     'pronouns': ('he', 'him'),
     'country': 'russia',
     'city': 'yekaterinburg',
-    'code': ['python', 'scala', 'racket'],
+    'code': ['python', 'racket'],
     'tools': ['fastapi', 'django', 'docker'],
-    'editor': 'spacemacs',
+    'editor': 'doom emacs',
     'hobbies': ['music', 'anime', 'books'],
-    'OS': 'arch linux'
+    'OS': {
+        'pc': 'gentoo',
+        'laptop': 'arch linux'
+    }
 }
 ```
 
