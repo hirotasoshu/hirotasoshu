@@ -50,6 +50,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/hirotasoshu/hirotasoshu/blob/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/hirotasoshu/hirotasoshu/output/snake.svg" alt="Snake animation" />
 
 ###
