@@ -49,6 +49,7 @@ jobs:
 
       - uses: lowlighter/metrics@latest
         with:
+          token: 'NON NEEDED'
           filename: anilist.svg
           plugin_anilist: yes
           plugin_anilist_limit: 4
