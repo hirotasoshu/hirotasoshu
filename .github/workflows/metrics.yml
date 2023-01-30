@@ -31,13 +31,6 @@ jobs:
           base_hireable: yes
           base_indepth: yes
           config_timezone: Asia/Yekaterinburg
-          plugin_anilist: yes
-          plugin_anilist_limit: 2
-          plugin_anilist_limit_characters: 22
-          plugin_anilist_medias: anime
-          plugin_anilist_sections: favorites
-          plugin_anilist_shuffle: yes
-          plugin_anilist_user: hirotasoshu
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
           plugin_languages: yes
@@ -53,3 +46,14 @@ jobs:
           plugin_languages_sections: most-used
           plugin_languages_threshold: 0%
           repositories_forks: yes
+
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: anilist.svg
+          plugin_anilist: yes
+          plugin_anilist_limit: 4
+          plugin_anilist_limit_characters: 22
+          plugin_anilist_medias: anime
+          plugin_anilist_sections: favorites, watching
+          plugin_anilist_shuffle: yes
+          plugin_anilist_user: hirotasoshu
